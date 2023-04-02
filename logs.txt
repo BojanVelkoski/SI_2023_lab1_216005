@@ -1,0 +1,35 @@
+C:\Users\Bvelk\Desktop\SI_2023_lab1_216005>git log
+commit eb6e3d9df3454952fdcf58ba943fb2be35b37b32 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Bojan <bvelkoski3@gmail.com>
+Date:   Sun Apr 2 00:16:50 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 78421d2a22cf9498f1d965aef75bafd2ace8cde3
+Merge: dfb488a 46b0b32
+Author: Bojan <bvelkoski3@gmail.com>
+Date:   Sun Apr 2 00:38:23 2023 +0200
+
+    Merging branch bug2 to master
+
+commit 46b0b32ec6e1899f1c20a1e4f10706632765f5d0 (origin/bug2, bug2)
+Author: Bojan <bvelkoski3@gmail.com>
+Date:   Sun Apr 2 00:10:09 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit dfb488a9f65873c18034844ca7c92c2a072c69fc (origin/bug1, bug1)
+Author: Bojan <bvelkoski3@gmail.com>
+Date:   Sun Apr 2 00:07:27 2023 +0200
+
+    Fix wrong loop for reading
+
+commit ca5a19a25e6920aaf6c02ed9285e42bbbb09a31c
+Author: Bojan <bvelkoski3@gmail.com>
+Date:   Sun Apr 2 00:00:24 2023 +0200
+
+    Add java class
+
+commit 54080d7399c6c075eb5f875452bba70fa1ba6cbb
+Author: Bojan <bvelkoski3@gmail.com>
+Date:   Sat Apr 1 23:54:55 2023 +0200
